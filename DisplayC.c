@@ -6,9 +6,10 @@
  *
  * Estudo da biblioteca ssd1306 com PicoW na Placa BitDogLab.
  *
- * Este programa escreve uma mensagem no display OLED.
- *
- *
+ * Uso dos demais periféricos para contemplar a atividade desta aula.
+ * 
+ * Por: Leonardo Romão
+ * DATA: 09/02/25
  */
 
 #include <stdio.h>
@@ -111,7 +112,7 @@ int main()
       {
         // Exibe o caractere recebido pela serial e pelo display caso seja um número exibido tambem pela matriz de led
         printf("Caractere recebido: %c\n", c);
-        telaMatrix(c, ssd);
+        telaMatrix(c, ssd); //Funçao responsável por ligar o display e a matriz de led
         sleep_ms(3e3);
       }
     }
