@@ -15,3 +15,4 @@ Este código utiliza os seguintes componentes da placa Bitdoglab: os botões A e
 3. Faça o Upload para a placa Bitdoglab.
 
 ## Vídeo Demonstrativo
+[Link do Video no Google Drive](https://drive.google.com/file/d/1r1OJRciRtF_wMJX4HMYVpm99oXuSlk7u/view?usp=drive_link)
