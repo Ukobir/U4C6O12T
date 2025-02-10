@@ -6,7 +6,7 @@
  *
  * Estudo da biblioteca ssd1306 com PicoW na Placa BitDogLab.
  *
- * Uso dos demais periféricos para contemplar a atividade desta aula.
+ * Uso dos demais periféricos e fonte minúscula para contemplar a atividade desta aula.
  * 
  * Por: Leonardo Romão
  * DATA: 09/02/25
